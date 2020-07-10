@@ -1,4 +1,4 @@
-## Howdy, I'm `v 1 r t l ✨`
+## Howdy, I'm v 1 r t l ✨
 
 I'm a 16 y.o. full-stack web developer.
 
