@@ -7,8 +7,4 @@ I'm a 16 y/o null-stack web developer. Making OSS and working for paid projects.
 - my site [w.i.p.] -> https://v1rtl.site
 - hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
 - telegram channel: [@we_use_js](https://t.me/we_use_js)
-
-### My current projects
-
-* [komfy.social](https://komfy.now.sh) - secure ad-free social network
-* [ur-db.com](https://ur-db.com) - centralized CMS and API for any content
+- working on [tinyhttp](https://tinyhttp.v1rtl.site), [komfy](https://komfy.now.sh) and [ur-db](https://ur-db.com)
