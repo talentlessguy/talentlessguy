@@ -12,16 +12,14 @@ I'm a 16 y.o. full-stack web developer.
 
 ### Author of
 
-[:earth_africa:](https://tinyhttp.v1rtl.site) [:octocat:](https://github.com/talentlessguy/tinyhttp)   [:scroll:](https://tinyhttp.v1rtl.site/docs)
- **[tinyhttp](https://tinyhttp.v1rtl.site)** - a **modern**, **lightweight** and **modular** Express-like web framework for Node.js.
+**[tinyhttp](https://tinyhttp.v1rtl.site)** - a **modern**, **lightweight** and **modular** Express-like web framework for Node.js. [:earth_africa:](https://tinyhttp.v1rtl.site) [:octocat:](https://github.com/talentlessguy/tinyhttp) [:scroll:](https://tinyhttp.v1rtl.site/docs)
 
-[:octocat:](https://github.com/talentlessguy/parsec) **[parsec](https://github.com/talentlessguy/parsec)** - modern asynchronous body parser for Node.js.
+ **[parsec](https://github.com/talentlessguy/parsec)** - modern asynchronous body parser for Node.js. [:octocat:](https://github.com/talentlessguy/parsec)
 
+**[react-link-previewer](https://react-link-previewer.now.sh/)** - preview links with page meta tags using React component / hook + Go service. [:earth_africa:](https://react-link-previewer.now.sh) [:octocat:](https://github.com/relay-chat/react-link-previewer)
 
-[:earth_africa:](https://react-link-previewer.now.sh) [:octocat:](https://github.com/relay-chat/react-link-previewer) **[react-link-previewer](https://react-link-previewer.now.sh/)** - preview links with page meta tags using React component / hook + Go service.
-
-[:octocat:](https://github.com/talentlessguy/go-web-app) **[go-web-app](https://github.com/talentlessguy/go-web-app)** 📦 - CLI for setting up Go WebAssembly frontend app
+**[go-web-app](https://github.com/talentlessguy/go-web-app)** 📦 - CLI for setting up Go WebAssembly frontend app [:octocat:](https://github.com/talentlessguy/go-web-app)
 
 ### Working on
 
-[:octocat:](https://github.com/react-spring/react-postprocessing) **[react-postprocessing](https://github.com/react-spring/react-postprocessing)** 📬 - postprocessing wrapper for React.
+**[react-postprocessing](https://github.com/react-spring/react-postprocessing)** 📬 - postprocessing wrapper for React. [:octocat:](https://github.com/react-spring/react-postprocessing)
