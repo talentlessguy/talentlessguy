@@ -14,7 +14,7 @@ I'm a 16 y.o. full-stack web developer.
 
 **[tinyhttp](https://tinyhttp.v1rtl.site)** :zap: - a **modern**, **lightweight** and **modular** Express-like web framework for Node.js.
 
-[:earth_africa:](https://tinyhttp.v1rtl.site) [:octocat:](https://github.com/talentlessguy/tinyhttp) [:scroll:](https://tinyhttp.v1rtl.site/docs) | [:triangular_flag_on_post:](https://tinyhttp.v1rtl.site/learn)
+[:earth_africa:](https://tinyhttp.v1rtl.site)   [:octocat:](https://github.com/talentlessguy/tinyhttp)   [:scroll:](https://tinyhttp.v1rtl.site/docs)   [:triangular_flag_on_post:](https://tinyhttp.v1rtl.site/learn)
 
 **[parsec](https://github.com/talentlessguy/parsec)** :milky_way: - modern asynchronous body parser for Node.js.
 
