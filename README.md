@@ -18,7 +18,7 @@ I'm a 16 y.o. full-stack web developer.
 
 **[react-link-previewer](https://react-link-previewer.now.sh/)** - preview links with page meta tags using React component / hook + Go service. [:earth_africa:](https://react-link-previewer.now.sh) [:octocat:](https://github.com/relay-chat/react-link-previewer)
 
-**[go-web-app](https://github.com/talentlessguy/go-web-app)** 📦 - CLI for setting up Go WebAssembly frontend app [:octocat:](https://github.com/talentlessguy/go-web-app)
+**[go-web-app](https://github.com/talentlessguy/go-web-app)** - CLI for setting up Go WebAssembly frontend app [:octocat:](https://github.com/talentlessguy/go-web-app)
 
 ### Working on
 
