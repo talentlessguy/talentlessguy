@@ -10,21 +10,15 @@ I'm a 16 y.o. full-stack web developer.
 
 ### Author of
 
-#### [tinyhttp](https://tinyhttp.v1rtl.site) :zap:
-
-_**tinyhttp**_ is a **modern**, **lightweight** and **modular** Express-like web framework for Node.js.
+* [tinyhttp](https://tinyhttp.v1rtl.site) :zap: - a **modern**, **lightweight** and **modular** Express-like web framework for Node.js.
 
 [Site :earth_africa:](https://tinyhttp.v1rtl.site) | [GitHub :octocat:](https://github.com/talentlessguy/tinyhttp) | [Docs :scroll:](https://tinyhttp.v1rtl.site/docs) | [Guide :triangular_flag_on_post:](https://tinyhttp.v1rtl.site/learn)
 
-* **[parsec](https://github.com/talentlessguy/parsec)** :milky_way: 
-
-_**parsec**_ is a modern asynchronous body parser for Node.js.
+* **[parsec](https://github.com/talentlessguy/parsec)** :milky_way: - modern asynchronous body parser for Node.js.
 
 [GitHub :octocat:](https://github.com/talentlessguy/parsec)
 
-* **[react-link-previewer](https://react-link-previewer.now.sh/)
-
-Preview links with page meta tags using React component / hook + Go service.
+* **[react-link-previewer](https://react-link-previewer.now.sh/)** - preview links with page meta tags using React component / hook + Go service.
 
 [Site :earth_africa:](https://react-link-previewer.now.sh) | [GitHub :octocat:](https://github.com/relay-chat/react-link-previewer)
 
@@ -34,8 +28,6 @@ Preview links with page meta tags using React component / hook + Go service.
 
 ### Working on
 
-* **[react-postprocessing](https://github.com/react-spring/react-postprocessing)** 📬
-
-postprocessing wrapper for React.
+* **[react-postprocessing](https://github.com/react-spring/react-postprocessing)** 📬 - postprocessing wrapper for React.
 
 [GitHub :octocat:](https://github.com/react-spring/react-postprocessing)
