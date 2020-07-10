@@ -10,5 +10,5 @@ I'm a 16 y/o full-stack web developer. Making OSS and working for paid projects.
 
 ### My current projects
 
-komfy.social - secure ad-free social network
-ur-db.com - centralized CMS and API for any content
+* [komfy.social](https://komfy.now.sh) - secure ad-free social network
+* [ur-db.com](https://ur-db.com) - centralized CMS and API for any content
