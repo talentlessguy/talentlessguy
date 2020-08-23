@@ -8,3 +8,8 @@ I'm a 16 y/o null-stack web developer. Making OSS and working for paid projects.
 - 💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
 - 📢 telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
 - 👨🏻‍💻 working on [tinyhttp](https://tinyhttp.v1rtl.site), [komfy](https://komfy.now.sh) and [ur-db](https://ur-db.com)
+
+_random facts_
+
+- ⛺ was in [goto IT camp](https://goto.msk.ru) twice
+- 🐧 Manjaro Linux user
