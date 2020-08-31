@@ -1,8 +1,8 @@
 ## Howdy, I'm v 1 r t l ✨
 
-<img height="180px" src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/c7754cf7ce976b13e5f7d58ba035396c0026ba76/v1rtl.svg" />
+<img height="180px" src="https://i.kym-cdn.com/entries/icons/medium/000/031/671/cover1.jpg" />
 
-I'm a 16 y/o null-stack web developer. Making OSS and working for paid projects.
+I'm a 16 y/o null-stack web developer. Making OSS and <del>working for commercial projects</del> not anymore.
 
 - 🌍 my site [w.i.p.] -> https://v1rtl.site
 - 💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
