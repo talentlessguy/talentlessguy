@@ -12,4 +12,5 @@ _random facts_
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
 - 🐧 Manjaro Linux user
 - 📝 Collecting cool [Node ESM libs](https://github.com/talentlessguy/awesome-node-esm)
+- 🎶 Listening to metalcore, russian post-punk and electronics
 - 😩 tired
