@@ -1,4 +1,4 @@
-<img height="180px" src="v1rtl.svg" />
+<img height="180px" src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/v1rtl.svg" />
 
 16 y/o null-stack web developer. Making open source and ~working for commercial projects~ not anymore.
 
