@@ -1,4 +1,4 @@
-<img height="180px" src="https://i.kym-cdn.com/entries/icons/medium/000/031/671/cover1.jpg" />
+<img height="180px" src="v1rtl.svg" />
 
 16 y/o null-stack web developer. Making open source and <del>working for commercial projects</del> not anymore.
 
