@@ -1,6 +1,6 @@
 <img height="180px" src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/v1rtl.svg" />
 
-16 y/o null-stack web developer. Making open source and ~working for commercial projects~ not anymore.
+16 y/o nullstack web developer. Making open source and ~working for commercial projects~ not anymore.
 
 - 🌍 my site [still w.i.p.] -> https://v1rtl.site
 - 💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
