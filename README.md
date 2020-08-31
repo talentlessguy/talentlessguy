@@ -14,4 +14,4 @@ _random facts_
 - 📝 Collecting cool [Node ESM libs](https://github.com/talentlessguy/awesome-node-esm)
 - 🎶 Listening to metalcore, russian post-punk and electronics
 - 😩 tired
-- ✨ preferring art over usefulness
+- 🙅 unavailable for hire
