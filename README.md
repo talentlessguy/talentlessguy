@@ -9,6 +9,7 @@
 
 _random facts_
 
+- 🇷🇺 from a tiny russian town
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
 - 🐧 Manjaro Linux user
 - 📝 Collecting cool [Node ESM libs](https://github.com/talentlessguy/awesome-node-esm)
