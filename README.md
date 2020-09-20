@@ -2,6 +2,7 @@
 
 16 y/o nullstack web developer. Making open source and ~working for commercial projects~ not anymore.
 
+- :octocat: my git -> https://git.v1rtl.site
 - 🌍 my site [still w.i.p.] -> https://v1rtl.site
 - 💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
 - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
