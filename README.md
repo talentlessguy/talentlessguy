@@ -4,9 +4,9 @@
 
 - :octocat: `my git mirror` -> https://git.v1rtl.site
 - 🌍 `my site [still w.i.p.]` -> https://v1rtl.site
-- 💬 `hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)`
+- 💬 `hmu on` [`telegram`](https://t.me/talentless_guy) `or` [`twitter`](https://twitter.com/v1rtl)
 - 📢 `(russian) telegram channel about JavaScript:` [@we_use_js](https://t.me/we_use_js)
-- 👨🏻‍💻 working on [`tinyhttp`](https://tinyhttp.v1rtl.site), [`komfy`](https://komfy.now.sh) and [`ur-db`](https://ur-db.com)
+- 👨🏻‍💻 `working on` [`tinyhttp`](https://tinyhttp.v1rtl.site), [`komfy`](https://komfy.now.sh) `and` [`ur-db`](https://ur-db.com)
 
 _random facts_
 
