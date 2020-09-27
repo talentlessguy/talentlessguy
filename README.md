@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/600x200.jpg" />
+<a href="https://v1rtl.site"><img src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/600x200.jpg" /></a>
 
 16 y/o **nullstack** web developer. making oss. building shit.
 
