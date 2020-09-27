@@ -4,7 +4,7 @@
 
 :octocat: git mirror ~> https://git.v1rtl.site
 
----- 🌍 ~ ⛧ https://v1rtl.site ✨ ~ ----
+---- 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
 💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
 - - - - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
