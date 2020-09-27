@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/600x200.jpg" />
 
-16 y/o nullstack web developer. making oss and building shit.
+16 y/o **nullstack** web developer. making oss. building shit.
 
-- :octocat: git mirror ~> https://git.v1rtl.site
-- 🌍 site [still w.i.p.] ~> https://v1rtl.site
-- 💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
+:octocat: git mirror ~> https://git.v1rtl.site
+
+---- 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
+
+💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
 - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
 - 👨🏻‍💻 working on [`tinyhttp`](https://tinyhttp.v1rtl.site), [`komfy`](https://komfy.now.sh) and [`ur-db`](https://ur-db.com)
 
