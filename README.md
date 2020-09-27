@@ -1,4 +1,4 @@
-<img height="300px" src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/me.jpg" />
+<img src="https://raw.githubusercontent.com/talentlessguy/talentlessguy/master/600x200.jpg" />
 
 16 y/o nullstack web developer. Making open source and ~working for commercial projects~ not anymore.
 
