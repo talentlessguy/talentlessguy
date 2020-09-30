@@ -10,7 +10,7 @@
 - - - - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
 
 
-<p align="right"><h5>💀 🔪 👨🏻‍💻 working on <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, <a href="https://komfy.now.sh"><code>komfy</code></a> and <a href="https://ur-db.com""><code>ur-db</code></a></h5> </p>
+<p align="right"><strong>💀 🔪 👨🏻‍💻 working on <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, <a href="https://komfy.now.sh"><code>komfy</code></a> and <a href="https://ur-db.com""><code>ur-db</code></a></strong> </p>
 
 <img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" />
 
