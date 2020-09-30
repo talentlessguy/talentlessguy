@@ -12,7 +12,7 @@
 
 ##### 💀 🔪 👨🏻‍💻 working on [`tinyhttp`](https://tinyhttp.v1rtl.site), [`komfy`](https://komfy.now.sh) and [`ur-db`](https://ur-db.com)
 
-![emoji](https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif)
+<img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" />
 
 _`data`_
 
