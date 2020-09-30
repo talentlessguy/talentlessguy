@@ -6,7 +6,8 @@
 
 ---- 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
-💬 hmu on [telegram](https://t.me/talentless_guy) or [twitter](https://twitter.com/v1rtl)
+<p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a> or <a href="https://twitter.com/v1rtl">twitter</a> </p>
+
 - - - - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
 
 
