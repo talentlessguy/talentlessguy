@@ -4,7 +4,7 @@
 
 :octocat: git mirror ~> https://git.v1rtl.site
 
----- 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
+---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
 <p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a> or <a href="https://twitter.com/v1rtl">twitter</a> </p>
 
@@ -23,7 +23,6 @@
 _`data`_
 
 - 🇷🇺 country: russia
-- 👦 16 y.o.
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
 - 🐧 Manjaro Linux user
 - 📝 Collecting cool [Node ESM libs](https://github.com/talentlessguy/awesome-node-esm)
