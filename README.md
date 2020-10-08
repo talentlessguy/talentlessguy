@@ -17,7 +17,7 @@
 
 <p align="center">→ ⛧ skills ✨ ←</p>
 
-<img src="main_skills.svg" align="center" />
+<p align="center"><img src="main_skills.svg" align="center" /></p>
 
 
 _`data`_
