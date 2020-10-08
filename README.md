@@ -15,6 +15,14 @@
 
 <p><img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" /> <a href="https://tinyhttp.v1rtl.site"><img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a> </p>
 
+<p align="right">
+
+→ ⛧ skills ✨ ←
+
+<img src="main_skills.svg" />
+
+</p>
+
 _`data`_
 
 - 🇷🇺 country: russia
