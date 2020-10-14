@@ -1,4 +1,4 @@
-16 y/o **nullstack** web developer. making oss. building shit.
+16 y/o **nullstack** developer. tired of coding.
 
 :octocat: git mirror ~> https://git.v1rtl.site
 
