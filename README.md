@@ -4,6 +4,8 @@
 
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
+<p align="right"><a href="https://v1rtl.site/images">ẹ̷͓̻͚̌̏̈́͆̉n̶̹̗̘͍͈͋t̷͍͇̮̄̀͑́ȩ̴̰͙̲̈r̶̳̻̪̗͐̈́̓ ̵̰̭̺̲͛m̷͍͕̺̎̀̃͛̆͜ͅý̷̠̋͂̆͝ ̵̩̺̲̎̎̒͘͘m̸̰̄í̴͇̄͜n̴͎̺̮͇͗̔̽̋̌ḑ̵͔̍̏̊̋</a></p>
+
 <p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a></p>
 
 - - - - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
@@ -22,6 +24,8 @@
   <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/file-icons:nextjs.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
  </p>
 
 
