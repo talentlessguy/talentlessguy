@@ -13,9 +13,16 @@
 
 <p><img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" /> <a href="https://tinyhttp.v1rtl.site"><img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a> </p>
 
-<p align="center">→ ⛧ skills ✨ ←</p>
+<p align="center">→ ⛧ tech i use ✨ ←</p>
 
-<p align="center"><img src="main_skills.svg" align="center" /></p>
+<p align="center">
+  <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
+ </p>
 
 
 _`data`_
