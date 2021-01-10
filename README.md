@@ -1,7 +1,5 @@
 16 y/o **nullstack** developer. not coding anymore.
 
-:octocat: git mirror ~> https://git.v1rtl.site
-
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
 <p align="right"><a href="https://v1rtl.site/images">ẹ̷͓̻͚̌̏̈́͆̉n̶̹̗̘͍͈͋t̷͍͇̮̄̀͑́ȩ̴̰͙̲̈r̶̳̻̪̗͐̈́̓ ̵̰̭̺̲͛m̷͍͕̺̎̀̃͛̆͜ͅý̷̠̋͂̆͝ ̵̩̺̲̎̎̒͘͘m̸̰̄í̴͇̄͜n̴͎̺̮͇͗̔̽̋̌ḑ̵͔̍̏̊̋</a></p>
@@ -14,6 +12,8 @@
 <p align="right"><strong>💀 🔪 👨🏻‍💻 working on <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, abandoned <a href="https://komfy.now.sh"><code>komfy</code></a> and sometimes coding for <a href="https://ur-db.com""><code>ur-db</code></a></strong> </p>
 
 <p><img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" /> <a href="https://tinyhttp.v1rtl.site"><img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a> </p>
+
+<sub>also helping my friend to develop <code><a href="https://github.com/BRA1L0R/hyperlight">Hyperlight</a></code></sub>
 
 <p align="center">→ ⛧ tech i use ✨ ←</p>
 
