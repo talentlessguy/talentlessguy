@@ -1,4 +1,4 @@
-16 y/o **nullstack** developer. not coding anymore.
+17 y/o **nullstack** developer. not coding anymore.
 
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
