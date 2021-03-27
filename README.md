@@ -17,7 +17,7 @@
 
 <sub>
 
-##### contributing other projects
+##### contributing to other projects
 
 - made logo for [smoldash](https://github.com/marvinhagemeister/smoldash)
 - added Russian translation to [gotop](https://github.com/xxxserxxx/gotop)
