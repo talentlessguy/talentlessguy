@@ -15,6 +15,15 @@
 
 <sub>also helping my friend to develop <code><a href="https://github.com/BRA1L0R/hyperlight">Hyperlight</a></code></sub>
 
+<sub>
+
+##### contributing other projects
+
+- made logo for [smoldash](https://github.com/marvinhagemeister/smoldash)
+- added Russian translation to [gotop](https://github.com/xxxserxxx/gotop)
+
+</sub>
+
 <p align="center">→ ⛧ tech i use ✨ ←</p>
 
 <p align="center">
