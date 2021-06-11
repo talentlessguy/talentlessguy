@@ -6,9 +6,6 @@
 
 <p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a></p>
 
-- - - - 📢 (russian) telegram channel about JavaScript: [@we_use_js](https://t.me/we_use_js)
-
-
 <p align="right"><strong>💀 🔪 👨🏻‍💻 working on <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes coding for <a href="https://ur-db.com"><code>ur-db</code></a></strong> </p>
 
 <sub>
