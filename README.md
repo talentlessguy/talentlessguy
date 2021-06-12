@@ -4,6 +4,8 @@
 
 <p align="right"><a href="https://v1rtl.site/images">ẹ̷͓̻͚̌̏̈́͆̉n̶̹̗̘͍͈͋t̷͍͇̮̄̀͑́ȩ̴̰͙̲̈r̶̳̻̪̗͐̈́̓ ̵̰̭̺̲͛m̷͍͕̺̎̀̃͛̆͜ͅý̷̠̋͂̆͝ ̵̩̺̲̎̎̒͘͘m̸̰̄í̴͇̄͜n̴͎̺̮͇͗̔̽̋̌ḑ̵͔̍̏̊̋</a></p>
 
+<h1>my new telegram channel about webdev: <a href="https://t.me/asterisk_js">*.js</a></h1>
+
 <p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a></p>
 
 <p align="right"><strong>💀 🔪 👨🏻‍💻 working on <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes coding for <a href="https://ur-db.com"><code>ur-db</code></a></strong> </p>
