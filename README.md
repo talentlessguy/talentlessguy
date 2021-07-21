@@ -56,7 +56,6 @@ _`data`_
 - 🇷🇺 country: Russia
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
 - <img src="https://api.iconify.design/cib:manjaro.svg" /> Manjaro Linux user
-- 📝 Collecting cool [Node ESM libs](https://github.com/talentlessguy/awesome-node-esm)
 - 🙅 unavailable for hire
 
 ###### Donate
