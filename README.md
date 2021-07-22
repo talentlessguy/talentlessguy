@@ -2,7 +2,7 @@
 
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
-<p align="right"><a href="https://v1rtl.site/images">ẹ̷͓̻͚̌̏̈́͆̉n̶̹̗̘͍͈͋t̷͍͇̮̄̀͑́ȩ̴̰͙̲̈r̶̳̻̪̗͐̈́̓ ̵̰̭̺̲͛m̷͍͕̺̎̀̃͛̆͜ͅý̷̠̋͂̆͝ ̵̩̺̲̎̎̒͘͘m̸̰̄í̴͇̄͜n̴͎̺̮͇͗̔̽̋̌ḑ̵͔̍̏̊̋</a></p>
+
 
 <h1>my new telegram channel about webdev: <a href="https://t.me/asterisk_js">*.js</a></h1>
 
@@ -25,8 +25,12 @@
   </ul>
 </sub>
   
-<p><img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" /> <a href="https://v1rtl.site/support"><img height="250px" align="center" alt="Support" src="/eth.gif" /></a>  <a href="https://tinyhttp.v1rtl.site">
-  <img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a> </p>
+<p>
+
+  <a href="https://v1rtl.site"><img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" /> ẹ̷͓̻͚̌̏̈́͆̉n̶̹̗̘͍͈͋t̷͍͇̮̄̀͑́ȩ̴̰͙̲̈r̶̳̻̪̗͐̈́̓ ̵̰̭̺̲͛m̷͍͕̺̎̀̃͛̆͜ͅý̷̠̋͂̆͝ ̵̩̺̲̎̎̒͘͘m̸̰̄í̴͇̄͜n̴͎̺̮͇͗̔̽̋̌ḑ̵͔̍̏̊̋</a>
+  <a href="https://v1rtl.site/support"><img height="250px" align="center" alt="Support" src="/eth.gif" /></a>  <a href="https://tinyhttp.v1rtl.site">
+  <img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a>
+</p>
 
 <sub>
 
