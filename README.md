@@ -8,7 +8,7 @@
 
 <p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a></p>
 
-<p align="right"><strong>💀 🔪 👨🏻‍💻 working on <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes coding for <a href="https://ur-db.com"><code>ur-db</code></a></strong> </p>
+<p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
 
 <sub>
   <h4>my http middlewares:</h4>
