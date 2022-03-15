@@ -6,7 +6,7 @@
 
 <h1>my new telegram channel about webdev: <a href="https://t.me/asterisk_js">*.js</a></h1>
 
-<p align="center"> 💬 hmu on <a href="https://t.me/talentless_guy">telegram</a></p>
+<p align="center"> 💬 hmu on <a href="https://t.me/v_1rtl">telegram</a></p>
 
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, working at <a href="https://genie.xyz"><code>genie 🧞</code></a> <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
   
