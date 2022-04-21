@@ -4,7 +4,9 @@
 
 
 
-<h1>my new telegram channel about webdev: <a href="https://t.me/asterisk_js">*.js</a></h1>
+# my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
+
+#### If you are looking for developers to implement your projects, please contact at [regalit.ru](https://regalit.ru), I help there as a consultant. Specializing in CRM and SaaS, but open to any interesting projects.
 
 <p align="center"> 💬 hmu on <a href="https://t.me/v_1rtl">telegram</a></p>
 
