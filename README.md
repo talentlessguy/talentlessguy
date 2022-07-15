@@ -44,7 +44,7 @@ previously <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="
 
 _`data`_
 
-- 🇷🇺 country: Russia
+- 🇪🇪 country: Estonia
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
 - <img src="https://api.iconify.design/cib:manjaro.svg" /> Manjaro Linux user
 
