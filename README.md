@@ -2,7 +2,7 @@
 
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
-
+## AVAILABLE FOR HIRE // DM ON TELEGRAM
 
 #### my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
 
