@@ -11,21 +11,6 @@
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes working at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
   
 previously <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>
-
-<sub>
-  <h4>my http middlewares:</h4>
-  <h5>node.js</h5>
-  <ul>
-    <li><a href="https://github.com/talentlessguy/milliparsec">body parser</a></li>
-    <li><a href="https://github.com/talentlessguy/tinyws"><code>req.ws</code></a></li>
-  </ul>
-  <h5>deno</h5>
-  <ul>
-    <li><a href="https://github.com/deno-libs/gql">graphql</a></li>
-    <li><a href="https://github.com/deno-libs/compression">compression</a></li>
-    <li><a href="https://github.com/deno-libs/parsec">body parser</a></li>
-  </ul>
-</sub>
   
 <p>
 
