@@ -2,7 +2,25 @@
 
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
-## AVAILABLE FOR HIRE // [DM](https://t.me/v1_rtl)
+<pre>
+   ______________________________
+ / \                             \.
+|   |                            |.
+ \_ |                            |.
+    |                            |.
+    |                            |.
+    |     AVAILABLE FOR HIRE     |.
+    |                            |.
+    |      v1rtl@proton.me       |.
+    |                            |.
+    |      <a href="https://t.me/v1_rtl">DM on Telegram</a>        |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |   _________________________|___
+    |  /                            /.
+    \_/dc__________________________/.
+</pre>
 
 #### my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
 
