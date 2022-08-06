@@ -7,7 +7,6 @@
  / \                             \.
 |   |                            |.
  \_ |                            |.
-    |                            |.
     |     AVAILABLE FOR HIRE     |.
     |                            |.
     |      v1rtl@proton.me       |.
