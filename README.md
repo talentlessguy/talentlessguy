@@ -8,14 +8,11 @@
 |   |                            |.
  \_ |                            |.
     |                            |.
-    |                            |.
     |     AVAILABLE FOR HIRE     |.
     |                            |.
     |      v1rtl@proton.me       |.
     |                            |.
     |      <a href="https://t.me/v1_rtl">DM on Telegram</a>        |.
-    |                            |.
-    |                            |.
     |                            |.
     |   _________________________|___
     |  /                            /.
