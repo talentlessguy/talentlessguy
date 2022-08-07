@@ -22,7 +22,7 @@
 
 <p align="center"> 💬 hmu on <a href="https://t.me/v_1rtl">telegram</a></p>
 
-<p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes working at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
+<p align="right">💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes working at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
   
 previously <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>
   
@@ -33,14 +33,11 @@ previously <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="
   <img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a>
 </p>
 
-<sub>
-
 ##### contributing to other projects
 
 - made logo for [smoldash](https://github.com/marvinhagemeister/smoldash)
+- made logo for [ultra](https://github.com/exhibitionist-digital/ultra)
 - added Russian translation to [gotop](https://github.com/xxxserxxx/gotop)
-
-</sub>
 
 <p align="center">→ ⛧ tech i use ✨ ←</p>
 
