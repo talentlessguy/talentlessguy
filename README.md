@@ -11,7 +11,7 @@
     |                            |.
     |      v1rtl@proton.me       |.
     |                            |.
-    |      <a href="https://t.me/v1_rtl">DM on Telegram</a>        |.
+    |      <a href="https://t.me/v_1rtl">DM on Telegram</a>        |.
     |                            |.
     |   _________________________|___
     |  /                            /.
