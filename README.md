@@ -7,7 +7,7 @@
  / \                             \.
 |   |                            |.
  \_ |                            |.
-    |     AVAILABLE FOR HIRE     |.
+    |          CONTACT           |.
     |                            |.
     |      v1rtl@proton.me       |.
     |                            |.
@@ -19,8 +19,6 @@
 </pre>
 
 #### my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
-
-<p align="center"> 💬 hmu on <a href="https://t.me/v_1rtl">telegram</a></p>
 
 <p align="right">💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes working at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
   
