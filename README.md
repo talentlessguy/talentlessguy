@@ -59,5 +59,4 @@ _`data`_
 
 ###### Donate
 
-
-[ko-fi](https://img.shields.io/badge/kofi-pink?style=flat-square&logo=ko-fi)](https://ko-fi.com/v1rtl)
+[ko-fi](https://ko-fi.com/v1rtl) or v1rtl.eth
