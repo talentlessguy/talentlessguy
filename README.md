@@ -18,14 +18,16 @@
     \_/dc__________________________/.
 </pre>
 
-notable projects:
+my projects:
 <h5>
 
 - web3: [get-ens](https://github.com/talentlessguy/get-ens), [erc20-balance](https://github.com/talentlessguy/erc20-balance), [sign-tx](https://github.com/talentlessguy/send-tx), [chain-provider](https://github.com/talentlessguy/chain-provider)
+- deno: [gql](https://github.com/deno-libs/gql), [compression](https://github.com/deno-libs/http_compression), [rpc](https://github.com/deno-libs/rpc), [ipfs](https://github.com/deno-libs/ipfs), [solc](https://github.com/deno-web3/solc), [slate](https://github.com/deno-web3/slate), [estuary](https://github.com/deno-web3/estuary), [zrx](https://github.com/deno-web3/zrx)
 - react: [use-ens](https://github.com/talentlessguy/use-ens), [use-onboard](https://github.com/talentlessguy/use-onboard), [react-ogp](https://github.com/talentlessguy/react-ogp)
 - hyperapp: [hypermdx](https://github.com/talentlessguy/hypermdx), [hyperapp-fullstack-starter](https://github.com/talentlessguy/hyperapp-fullstack-starter)
 - node: [nexus-cloudinary](https://github.com/talentlessguy/nexus-cloudinary), [tinyhttp](https://github.com/tinyhttp/tinyhttp), [tinyws](https://github.com/tinyhttp/tinyws), [milliparsec](https://github.com/tinyhttp/milliparsec), [lru-send](https://github.com/tinyhttp/lru-send), [ping](https://github.com/tinyhttp/ping), [bot-detector](https://github.com/tinyhttp/bot-detector)
 - golang: [go-web-app](https://github.com/talentlessguy/go-web-app), [og-service](https://github.com/talentlessguy/og-service), [golang-reload-browser](https://github.com/talentlessguy/golang-reload-browser)
+- awesome: [node-esm](https://github.com/talentlessguy/awesome-node-esm), [defi](https://github.com/talentlessguy/awesome-defi)
 - misc: [vdom](https://github.com/talentlessguy/vdom), [better-schema-link](https://github.com/talentlessguy/better-schema-link)
    
 </h5>
