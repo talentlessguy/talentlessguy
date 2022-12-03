@@ -34,9 +34,9 @@ my projects:
 
 #### my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
 
-<p align="right">💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, sometimes working at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
+<p align="right">💀 🔪 👨🏻‍💻 sometimes helping at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
   
-previously <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>
+prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>, <a href="https://mintdrop.com"><code>mintdrop 📊</code></a>, <a href="https://coinvise.co"><code>coinvise 🪞</code></a>
   
 <p>
 
