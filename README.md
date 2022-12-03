@@ -1,12 +1,4 @@
-**nullstack** developer.
-
-<h5>
-
-- web3: [get-ens](https://github.com/talentlessguy/get-ens), [erc20-balance](https://github.com/talentlessguy/erc20-balance), [sign-tx](https://github.com/talentlessguy/send-tx), [chain-provider](https://github.com/talentlessguy/chain-provider)
-- react: [use-ens](https://github.com/talentlessguy/use-ens), [use-onboard](https://github.com/talentlessguy/use-onboard)
-- backend: [hypermdx](https://github.com/talentlessguy/hypermdx)
-
-</h5>   
+**nullstack** developer. 
    
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
@@ -25,6 +17,18 @@
     |  /                            /.
     \_/dc__________________________/.
 </pre>
+
+notable projects:
+<h5>
+
+- web3: [get-ens](https://github.com/talentlessguy/get-ens), [erc20-balance](https://github.com/talentlessguy/erc20-balance), [sign-tx](https://github.com/talentlessguy/send-tx), [chain-provider](https://github.com/talentlessguy/chain-provider)
+- react: [use-ens](https://github.com/talentlessguy/use-ens), [use-onboard](https://github.com/talentlessguy/use-onboard), [react-ogp](https://github.com/talentlessguy/react-ogp)
+- hyperapp: [hypermdx](https://github.com/talentlessguy/hypermdx), [hyperapp-fullstack-starter](https://github.com/talentlessguy/hyperapp-fullstack-starter)
+- node: [nexus-cloudinary](https://github.com/talentlessguy/nexus-cloudinary)
+- golang: [go-web-app](https://github.com/talentlessguy/go-web-app), [og-service](https://github.com/talentlessguy/og-service), [golang-reload-browser](https://github.com/talentlessguy/golang-reload-browser)
+- misc: [vdom](https://github.com/talentlessguy/vdom), [better-schema-link](https://github.com/talentlessguy/better-schema-link)
+   
+</h5>
 
 #### my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
 
