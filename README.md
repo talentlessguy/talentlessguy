@@ -32,9 +32,9 @@ my projects:
    
 </h5>
 
-#### my new telegram channel about webdev: [*.js](https://t.me/asterisk_js)
+#### my new tg channel about webdev: [*.js](https://t.me/asterisk_js)
 
-<p align="right">💀 🔪 👨🏻‍💻 sometimes helping at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
+<p align="right">💀 🔪 👨🏻‍💻 sometimes helping at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>pmndrs ⚫</code></a>
   
 prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>, <a href="https://mintdrop.com"><code>mintdrop 📊</code></a>, <a href="https://coinvise.co"><code>coinvise 🪞</code></a>
   
