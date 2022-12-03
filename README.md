@@ -24,7 +24,7 @@ notable projects:
 - web3: [get-ens](https://github.com/talentlessguy/get-ens), [erc20-balance](https://github.com/talentlessguy/erc20-balance), [sign-tx](https://github.com/talentlessguy/send-tx), [chain-provider](https://github.com/talentlessguy/chain-provider)
 - react: [use-ens](https://github.com/talentlessguy/use-ens), [use-onboard](https://github.com/talentlessguy/use-onboard), [react-ogp](https://github.com/talentlessguy/react-ogp)
 - hyperapp: [hypermdx](https://github.com/talentlessguy/hypermdx), [hyperapp-fullstack-starter](https://github.com/talentlessguy/hyperapp-fullstack-starter)
-- node: [nexus-cloudinary](https://github.com/talentlessguy/nexus-cloudinary)
+- node: [nexus-cloudinary](https://github.com/talentlessguy/nexus-cloudinary), [tinyhttp](https://github.com/tinyhttp/tinyhttp), [tinyws](https://github.com/tinyhttp/tinyws), [milliparsec](https://github.com/tinyhttp/milliparsec), [lru-send](https://github.com/tinyhttp/lru-send)
 - golang: [go-web-app](https://github.com/talentlessguy/go-web-app), [og-service](https://github.com/talentlessguy/og-service), [golang-reload-browser](https://github.com/talentlessguy/golang-reload-browser)
 - misc: [vdom](https://github.com/talentlessguy/vdom), [better-schema-link](https://github.com/talentlessguy/better-schema-link)
    
