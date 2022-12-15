@@ -2,6 +2,8 @@
    
 ---- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
+I'm open for 10-20h / week work remote in EU (Estonia prefered). Contact below plz.
+
 <pre>
    ______________________________
  / \                             \.
