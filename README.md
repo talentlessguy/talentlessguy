@@ -11,7 +11,7 @@ I'm open for 10-20h / week work remote in EU (Estonia prefered). Contact below p
  \_ |                            |.
     |          CONTACT           |.
     |                            |.
-    |      v1rtl@proton.me       |.
+    |      yo@v1rtl.site         |.
     |                            |.
     |      <a href="https://t.me/v_1rtl">DM on Telegram</a>        |.
     |                            |.
