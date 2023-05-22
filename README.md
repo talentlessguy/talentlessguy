@@ -1,8 +1,6 @@
 **nullstack** developer. 
-   
----- ☢️ 🌍 ~> ⛧ https://v1rtl.site ✨ <~ ----
 
-I'm open for 10-20h / week work remote in EU (Estonia prefered). Contact below plz.
+I'm building [Flash](https://flash-dev.vercel.app) - a service to deploy websites and apps on the new decentralized stack.
 
 <pre>
    ______________________________
