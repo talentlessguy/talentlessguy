@@ -1,22 +1,12 @@
-**nullstack** developer. 
+**nullstack** developer, coding since 14 yo. 
 
 I'm building [Flash](https://flash-dev.vercel.app) - a service to deploy websites and apps on the new decentralized stack.
 
-<pre>
-   ______________________________
- / \                             \.
-|   |                            |.
- \_ |                            |.
-    |          CONTACT           |.
-    |                            |.
-    |      yo@v1rtl.site         |.
-    |                            |.
-    |      <a href="https://t.me/v_1rtl">DM on Telegram</a>        |.
-    |                            |.
-    |   _________________________|___
-    |  /                            /.
-    \_/dc__________________________/.
-</pre>
+<a href="https://flash-dev.vercel.app">
+   <img src="https://github.com/talentlessguy/talentlessguy/assets/35937217/ccb6b6db-24f6-4a27-b20a-d630f8e60827" height="200" />
+</a>
+
+If you'd like to try or collab, [dm](https://t.me/v_1rtl) or [email](mailto:yo@v1rtl.site)
 
 my projects:
 <h5>
