@@ -1,4 +1,4 @@
-**nullstack** developer, coding since 14 yo. 
+**nullstack** developer.
 
 I'm building [Flash](https://flash-dev.vercel.app) - a service to deploy websites and apps on the new decentralized stack.
 
