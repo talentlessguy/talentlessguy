@@ -1,4 +1,4 @@
-**nullstack** developer.
+**nullstack** developer at [Fleek](https://github.com/FleekHQ/).
 
 I'm building [Flash](https://flash-dev.vercel.app) - a service to deploy websites and apps on the new decentralized stack.
 
@@ -32,6 +32,11 @@ prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https
   <a href="https://v1rtl.site/support"><img height="250px" align="center" alt="Support" src="/eth.gif" /></a>  <a href="https://tinyhttp.v1rtl.site">
   <img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a>
 </p>
+
+##### achivements
+
+- finalist team member of [ETHGlobal 2022](https://ethglobal.com/showcase/hashscan-rw5ay)
+- [2nd place](https://nitter.net/v_1rtl/status/1667222867245711397) of ENSKIED Demo Day 2023 startup incubator
 
 ##### contributing to other projects
 
