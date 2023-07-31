@@ -60,7 +60,7 @@ _`data`_
 
 - 🇪🇪 country: Estonia
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
-- <img src="https://api.iconify.design/cib:manjaro.svg" /> Manjaro Linux user
+- Garuda Linux user
 
 ###### Donate
 
