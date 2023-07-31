@@ -2,8 +2,6 @@
 
 I'm building Stauro - a service to deploy websites and apps on the new decentralized stack.
 
-<img src="https://github.com/talentlessguy/talentlessguy/assets/35937217/ccb6b6db-24f6-4a27-b20a-d630f8e60827" height="200" />
-
 If you'd like to try or collab, [dm](https://t.me/v_1rtl) or [email](mailto:yo@v1rtl.site)
 
 my projects:
