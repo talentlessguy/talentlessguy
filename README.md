@@ -1,4 +1,4 @@
-**nullstack** developer at [Fleek](https://github.com/FleekHQ/).
+**nullstack** developer.
 
 I'm building Stauro - a service to deploy websites and apps on the new decentralized stack.
 
