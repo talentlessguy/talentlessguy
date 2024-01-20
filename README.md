@@ -22,13 +22,13 @@ my projects:
 
 <p align="right">💀 🔪 👨🏻‍💻 sometimes helping at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>pmndrs ⚫</code></a>
   
-prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>, <a href="https://mintdrop.com"><code>mintdrop 📊</code></a>, <a href="https://coinvise.co"><code>coinvise 🪞</code></a>
+prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>, <a href="https://fleek.xyz"><code>fleek ⚡</code></a>
   
 <p>
 
   <a href="https://v1rtl.site"><img src="https://i.pinimg.com/originals/c5/c3/f5/c5c3f5ff8adf868c95b6d1c4a27519f7.gif" height="200px" alt="emoji" /> ẹ̷͓̻͚̌̏̈́͆̉n̶̹̗̘͍͈͋t̷͍͇̮̄̀͑́ȩ̴̰͙̲̈r̶̳̻̪̗͐̈́̓ ̵̰̭̺̲͛m̷͍͕̺̎̀̃͛̆͜ͅý̷̠̋͂̆͝ ̵̩̺̲̎̎̒͘͘m̸̰̄í̴͇̄͜n̴͎̺̮͇͗̔̽̋̌ḑ̵͔̍̏̊̋</a>
   <a href="https://v1rtl.site/support"><img height="250px" align="center" alt="Support" src="/eth.gif" /></a>  <a href="https://tinyhttp.v1rtl.site">
-  <img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a>
+  <img src="https://tinyhttp.v1rtl.site/logo.svg" align="right" height="80px" /></a>
 </p>
 
 ##### achivements
