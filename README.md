@@ -14,7 +14,7 @@ my projects:
 - node: [nexus-cloudinary](https://github.com/talentlessguy/nexus-cloudinary), [tinyhttp](https://github.com/tinyhttp/tinyhttp), [tinyws](https://github.com/tinyhttp/tinyws), [milliparsec](https://github.com/tinyhttp/milliparsec), [lru-send](https://github.com/tinyhttp/lru-send), [ping](https://github.com/tinyhttp/ping), [bot-detector](https://github.com/tinyhttp/bot-detector)
 - golang: [go-web-app](https://github.com/talentlessguy/go-web-app), [og-service](https://github.com/talentlessguy/og-service), [golang-reload-browser](https://github.com/talentlessguy/golang-reload-browser)
 - awesome: [node-esm](https://github.com/talentlessguy/awesome-node-esm), [defi](https://github.com/talentlessguy/awesome-defi)
-- misc: [vdom](https://github.com/talentlessguy/vdom), [better-schema-link](https://github.com/talentlessguy/better-schema-link)
+- misc: [vdom](https://github.com/talentlessguy/vdom)
    
 </h5>
 
