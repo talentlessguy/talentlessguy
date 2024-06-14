@@ -32,7 +32,7 @@ _`data`_
 
 - 🇪🇪 country: Estonia
 - ⛺ was in [goto IT camp](https://goto.msk.ru) twice
-- EndeavourOS user
+- Garuda Linux user
 
 ###### Donate
 
