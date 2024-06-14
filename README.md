@@ -1,5 +1,7 @@
 **nullstack** developer.
 
+front-end at [ENS](https://ens.domains)
+
 I'm building Stauro - a service to deploy websites and apps on the new decentralized stack.
 
 If you'd like to try or collab, [email](mailto:yo@v1rtl.site) or dm on farcaster (@v1rtl.eth)
