@@ -28,20 +28,6 @@ prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https
 - made logo for [ultra](https://github.com/exhibitionist-digital/ultra)
 - added Russian translation to [gotop](https://github.com/xxxserxxx/gotop)
 
-<p align="center">→ ⛧ tech i use ✨ ←</p>
-
-<p align="center">
-  <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/file-icons:nextjs.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
- </p>
-
-
 _`data`_
 
 - 🇪🇪 country: Estonia
