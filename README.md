@@ -24,8 +24,8 @@ prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https
 
 ##### contributing to other projects
 
-- made logo for [smoldash](https://github.com/marvinhagemeister/smoldash)
-- made logo for [ultra](https://github.com/exhibitionist-digital/ultra)
+- designed a logo for [smoldash](https://github.com/marvinhagemeister/smoldash)
+- designed a logo for [ultra](https://github.com/exhibitionist-digital/ultra)
 - added Russian translation to [gotop](https://github.com/xxxserxxx/gotop)
 
 _`data`_
