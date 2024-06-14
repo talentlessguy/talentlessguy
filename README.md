@@ -10,7 +10,7 @@ If you'd like to try or collab, [email](mailto:yo@v1rtl.site) or dm on farcaster
 
 <p align="right">💀 🔪 👨🏻‍💻 sometimes helping at <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>pmndrs ⚫</code></a>
   
-prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://genie.xyz"><code>genie 🧞</code></a>, <a href="https://fleek.xyz"><code>fleek ⚡</code></a>
+prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <code>genie 🧞 (acq. by Uniswap)</code>, <a href="https://fleek.xyz"><code>fleek ⚡</code></a>
   
 <p>
 
