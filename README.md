@@ -1,5 +1,7 @@
 **nullstack** developer.
 
+author of "fast builds with shitty code"
+
 front-end at [ENS](https://ens.domains)
 
 I'm building Stauro - a service to deploy websites and apps on the new decentralized stack.
