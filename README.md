@@ -24,7 +24,6 @@ prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <code>genie �
 ##### achivements
 
 - finalist team member of [ETHGlobal 2022](https://ethglobal.com/showcase/hashscan-rw5ay)
-- [2nd place](https://nitter.net/v_1rtl/status/1667222867245711397) of ENSKIED Demo Day 2023 startup incubator
 
 ##### contributing to other projects
 
@@ -35,7 +34,6 @@ prev. <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <code>genie �
 _`data`_
 
 - 🇪🇪 country: Estonia
-- ⛺ was in [goto IT camp](https://goto.msk.ru) twice
 - Garuda Linux user
 
 ###### Donate
